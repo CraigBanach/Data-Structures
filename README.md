@@ -5,6 +5,7 @@
  [![GitHub forks](https://img.shields.io/github/forks/farQtech/Data-Structures.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/farQtech/Data-Structures/network/)
  [![GitHub stars](https://img.shields.io/github/stars/farQtech/Data-Structures.svg?style=social&label=Star&maxAge=2592000)](https://api.github.com/repos/farQtech/Data-Structures/stargazers)
  [![GitHub watchers](https://img.shields.io/github/watchers/farQtech/Data-Structures.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/farQtech/Data-Structures/watchers/)
+ [![GitHub stars](https://img.shields.io/github/stars/farQtech/Data-Structures.svg?style=social&label=Star&maxAge=2592000)](https://api.github.com/repos/farQtech/Data-Structures/stargazers)
 
 # Data-Structures
 
