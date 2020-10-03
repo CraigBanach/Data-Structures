@@ -3,7 +3,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub pull-requests](https://img.shields.io/github/issues-pr/farQtech/Data-Structures.svg)](https://GitHub.com/farQtech/Data-Structures/pull/)
  [![GitHub issues](https://img.shields.io/github/issues/farQtech/Data-Structures.svg)](https://GitHub.com/farQtech/Data-Structures/issues/)
  [![GitHub forks](https://img.shields.io/github/forks/farQtech/Data-Structures.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/farQtech/Data-Structures/network/)
- [![GitHub stars](https://img.shields.io/github/stars/farQtech/Data-Structures.svg?style=social&label=Star&maxAge=2592000)](https://api.github.com/repos/farQtech/Data-Structures/stargazers/)
+ [![GitHub stars](https://img.shields.io/github/stars/farQtech/Data-Structures.svg?style=social&label=Star&maxAge=2592000)](https://api.github.com/repos/farQtech/Data-Structures/stargazers)
  [![GitHub watchers](https://img.shields.io/github/watchers/farQtech/Data-Structures.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/farQtech/Data-Structures/watchers/)
 
 # Data-Structures
